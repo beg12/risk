@@ -11,4 +11,5 @@ on a territory. The game is implemented as an application and has additional
  save/load feauture. Only one game at a time is saved and it autosaves 
 between each phase of someones turn.
 
-Brian Goldsberry did the game logic while Olivia Wiley implemented the GUI
+Brian Goldsberry did the game logic while Olivia Wiley implemented the GUI.
+Specifically, Brian worked on Territory.java, Board.java, Game.java, Deck.java, Card.java, and Player.java while Olivia did BoardWindow.java and modifications to Board.java.
